@@ -25,6 +25,7 @@ public static void main(String[] args) throws IOException {
         bw.write(" </head>");bw.newLine();
         bw.write(" <body>");bw.newLine();
         bw.write(" Nova p&agrave;gina web de Marc Andres");bw.newLine();
+        bw.write(" DAW2 UF4 pràctica2");bw.newLine();
         bw.write(" </body>");bw.newLine();
         bw.write("</html>");bw.newLine();
         bw.close();
